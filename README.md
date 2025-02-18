@@ -25,3 +25,14 @@ I would like to express my gratitude to my following teammates for their valuabl
 - **Alexander von der Bey** ([@alexandervonderbey](https://github.com/alexandervonderbey))
 - **Spencer Bing** ([@notspencer](https://github.com/notspencer))
 - **Raizy Andrei** ([@raizy21](https://github.com/raizy21))
+
+- ## To run the project with the SignUp/SignIn logic:
+1. Follow the instructions to start the API on your local server: https://github.com/WebDev-WBSCodingSchool/events-api
+
+2. After running the API (```npm run dev```), run: ```npm run seed```
+
+3. Clone and open the ChillPlanner project in a new VSCode window
+
+4. Run ```npm install``` (if needed) and ```npm run dev```
+
+5. Sign up to see the app content
